@@ -45,7 +45,7 @@
 ### Результаты:  
 Для успешного выполнения проекта вам необходимо набрать 21 балл из 40 возможных
 
-[ссылка на ноутбук, который показывает этот результат](https://github.com/vv77v/IDE/tree/master/project_1/Project_1.ipynb)
+[ссылка на ноутбук, который показывает этот результат](https://github.com/vv77v/IDE/blob/master/project_1/project_1.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/vv77v/IDE/tree/master/project_1#оглавление)
 
