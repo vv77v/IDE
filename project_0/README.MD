@@ -55,22 +55,22 @@
 
 :arrow_right: Загрузил код решения на GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/vv77v/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/vv77v/IDE/tree/master/project_0#оглавление)
 
 
 ### Результаты:  
 Мой алгоритм угадывает число в среднем за 5 попыток
 
-[ссылка на ноутбук, который показывает этот результат](https://github.com/vv77v/sf_data_science/blob/main/project_0/game.ipynb)
+[ссылка на ноутбук, который показывает этот результат](https://github.com/vv77v/IDE/tree/master/project_0/game.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/vv77v/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/vv77v/IDE/tree/master/project_0#оглавление)
 
 
 ### Выводы:  
 Я вполне освоил основы работы с PYTHON, VScode и GitHub.
 
 
-:arrow_up:[к оглавлению](https://github.com/vv77v/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/vv77v/IDE/tree/master/project_0#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
