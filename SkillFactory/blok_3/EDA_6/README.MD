@@ -1,0 +1,3 @@
+Ноутбук СOMET_ML.ipynb - в нём я залогировал матрицу кореляций, как оказалось не то что надо...
+
+Ноутбук _asset-v1_SkillFactory+DSPR-2.0+14JULY2021+type@asset+block_noshowappointments_cometml.ipynb - просто подставил свой ключ и тупо повторил..
