@@ -1,5 +1,7 @@
 # Проект 3. Соревнование в Kaggle
 
+(ник в Kaggle - vv77vv)
+
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/vv77v/IDE/tree/master/project_3#описание-проекта)  
