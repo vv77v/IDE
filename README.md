@@ -9,4 +9,4 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scient
 * [Проект 2. Работа в SQL](https://github.com/vv77v/IDE/tree/master/project_2)
 * [Проект 3. Соревнование на Kaggle](https://github.com/vv77v/IDE/tree/master/project_3)
 
-## Ссылки на резюме пока нет
+## Ссылки на резюме пока нет, но уже готовлю
