@@ -1,5 +1,7 @@
 # Проект 3. Соревнование в Kaggle
 
+(ник в Kaggle - vv77vv)
+
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/vv77v/IDE/tree/master/project_3#описание-проекта)  
@@ -55,7 +57,10 @@
 
 ✔️ понимаю, как правильно «подготовить» данные, чтобы моя модель работала лучше.
 
-[ссылка на результат моей работы](https://www.kaggle.com/code/vv77vv/project-3-vv77v/notebook)
+[ссылка на результат моей работы на Kaggle](https://www.kaggle.com/code/vv77vv/project-3-vv77v/notebook)
+
+[или на GitHub](https://github.com/vv77v/IDE/blob/master/project_3/project-3-vv77v%20(2).ipynb)
+Самый последний файл с хорошим результатом называется project-3-vv77v(2).ipynb
 
 :arrow_up:[к оглавлению](https://github.com/vv77v/IDE/tree/master/project_3#оглавление)
 
